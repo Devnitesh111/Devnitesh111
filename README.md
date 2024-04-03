@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [niteshthapa123.com.np](niteshthapa123.com.np)
 
-- 💬 Ask me about **Html,CSS,JS, Docker, R, Matlab, Nextjs, Postman TailwindCss, Jquery, Redux, Bootstrap, Typescript, React, Node/Express,Mongodb,Mysql,Php,Laravel,AdobeXd,Adobe Photoshop, Adobe illustrator,Adobe indesign, Adobe Premier Pro, Adobe after effect, C and C++.**
+- 💬 Ask me about **Html,CSS,JS, Docker, R, Matlab, Nextjs, Postman TailwindCss, Jquery, Redux, Bootstrap, Typescript, React, Node/Express,Mongodb,Mysql,Php,Laravel,AdobeXd,Adobe Photoshop, Adobe illustrator,Adobe indesign, Adobe Premier Pro, Adobe after effect, Wordpress, C and C++.**
 
 - 📫 How to reach me **niteshthapa824@gmail.com**
 
