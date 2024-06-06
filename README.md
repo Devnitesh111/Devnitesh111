@@ -1,6 +1,6 @@
 ![logo](https://github.com/Devnitesh111/Devnitesh111/blob/main/1706214149934.jfif)
 <h1 align="center">Hi 👋, I'm Nitesh Thapa</h1>
-<h3 align="center">A passionate fullstack developer, Graphic Designer, Ui/Ux designer and Video/Photo Editor from Nepal.</h3>
+<h3 align="center">A passionate fullstack developer, Graphic Designer(learning), Ui/Ux designer(learning) from Nepal.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnitesh111&label=Profile%20views&color=0e75b6&style=flat" alt="devnitesh111" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [niteshthapa123.com.np](niteshthapa123.com.np)
 
-- 💬 Ask me about **Html,CSS,JS, Docker, R, Matlab, Nextjs, Postman TailwindCss, Jquery, Redux, Bootstrap, Typescript, React, Node/Express,Mongodb,Mysql,Php,Laravel,AdobeXd,Adobe Photoshop, Adobe illustrator,Adobe indesign, Adobe Premier Pro, Adobe after effect, Wordpress, C and C++.**
+- 💬 Ask me about **Html,CSS,JS, Docker, R, Matlab, Nextjs, Postman TailwindCss, Jquery, Redux, Bootstrap, Typescript, React, Node/Express,Mongodb,Mysql,Php,AdobeXd,Adobe Photoshop, Adobe illustrator,Adobe indesign,C and C++.**
 
 - 📫 How to reach me **niteshthapa824@gmail.com**
 
