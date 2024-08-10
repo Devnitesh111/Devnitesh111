@@ -1,6 +1,6 @@
 ![logo](https://github.com/Devnitesh111/Devnitesh111/blob/main/1706214149934.jfif)
 <h1 align="center">Hi 👋, I'm Nitesh Thapa</h1>
-<h3 align="center">A passionate fullstack developer, Graphic Designer(Beginner), Ui/Ux designer(Beginner) from Nepal.</h3>
+<h3 align="center">A passionate fullstack web developer, Graphic Designer, Ui/Ux designer from Nepal.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnitesh111&label=Profile%20views&color=0e75b6&style=flat" alt="devnitesh111" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/nitesh thapa" target="blank"><img src="https://img.shields.io/twitter/follow/nitesh thapa?logo=twitter&style=for-the-badge" alt="nitesh thapa" /></a> </p>
 
-- 🔭 I’m currently working on **MERN E-commerce Project.**
+- 🔭 I’m currently working on **Saas project related to HMS.**
 
-- 🌱 I’m currently learning **Unreal Engine.**
+- 🌱 I’m currently learning **Ai/Ml.**
 
 - 👨‍💻 All of my projects are available at [niteshthapa123.com.np](niteshthapa123.com.np)
 
